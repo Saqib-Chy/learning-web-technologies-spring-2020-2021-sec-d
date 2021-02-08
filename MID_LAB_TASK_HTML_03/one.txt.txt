@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> Form tag </title>
+</head>
+<body>
+  <form method="" action="">
+  <p>Name </p>
+  <input type="text"><br>
+  <input type="submit" name="button" value="Submit"><br>
+  </form>
+
+</body>
+</html>
