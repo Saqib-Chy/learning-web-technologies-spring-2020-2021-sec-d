@@ -19,7 +19,7 @@
 
 		}else{
 
-			for($i = 0; $i < strlen($username); $itr++){
+			for($i = 0; $i < strlen($username); $i++){
 				if(($username[$i] >= 'A' && $username[$i] <= 'Z')
 				|| ($username[$i] >= 'a' && $username[$i] <= 'z')
 				|| ($username[$i] >= 0 && $username[$i] <= 9)
