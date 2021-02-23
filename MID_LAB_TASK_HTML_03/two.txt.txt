@@ -5,7 +5,7 @@
 </head>
 <body>
   <form method="" action="">
-  <p>Email</p>
+  <p>Email </p>
   <input type="text"><br>
   <input type="submit" name="button" value="Submit"><br>
   </form>
