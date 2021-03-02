@@ -20,18 +20,10 @@ if (  $username != " " && $password != " "  ){
 
 
 
-
 }
 else{
   echo "Invalid" ;
 }
-
-
-
-
-
-
-
 
 fclose($json_file) ;
 }
